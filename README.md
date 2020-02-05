@@ -10,7 +10,7 @@ Also of interest, it is possible to scroll through previous searches as well as 
 
 #### Setting up Triangle Server and MVC
 
-First, follow the instructions on how to install [Triangle Server and MVC] and then come back with the web service and MVC application running.
+First, follow the instructions on how to install [Triangle Server and MVC](https://github.com/jacobzaidiau/TriangleServerAndMVC) and then come back with the web service and MVC application running.
 
 #### Building and running Triangle Client
 
